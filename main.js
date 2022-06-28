@@ -35,8 +35,6 @@ function bear() {
         i = i - 1;
 
         console.log(" Take one down and pass it around, " + i + " " + bottleWord + " of beer on the wall.")
-
-        "<br>";
         
     }
     
